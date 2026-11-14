@@ -1,0 +1,10 @@
+
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+streamlit-mic-recorder
+SpeechRecognition
+gTTS
+google-genai
