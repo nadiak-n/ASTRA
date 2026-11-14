@@ -1,5 +1,3 @@
-# ASTRA
-ASTRA - Astronaut Smart Health Companion | AI-powered astronaut health monitoring platform.
 # ASTRA – AI-Powered Astronaut Health Monitoring System
 
 <p align="center">
